@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Cocinas Aurora App",
+    "slug": "cocinas_aurora_app",
+    "privacy": "public",
+    "platforms": ["ios", "android"],
+    "version": "1.4.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "googleMapsApiKey": "AIzaSyDsGQtP6L-BWryZC-JsAkXfd5ihVov1ox8",
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.598248843600-osarfqcgpgi0s9bejuhktq5g6fffp6op"
+        }
+      },
+      "bundleIdentifier": "com.cocinasaurora.cocinasaurorapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAPU01ZMs9V7VaFf3FN5wWbVCgc21nZMlQ"
+        },
+        "googleSignIn": {
+          "apiKey": "AIzaSyAPU01ZMs9V7VaFf3FN5wWbVCgc21nZMlQ",
+          "certificateHash": "DEC49965F007866B1A79E6F90797FACEB31680A2"
+        }
+      },
+      "package": "com.cocinasaurora.cocinasaurorapp"
+    },
+    "description": "Aplicación creada por Cocinas Aurora para mostrar los alimentos que venden"
+  }
+}

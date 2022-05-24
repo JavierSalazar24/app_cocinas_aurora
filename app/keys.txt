@@ -1,0 +1,6 @@
+Google Certificate Fingerprint:     DE:C4:99:65:F0:07:86:6B:1A:79:E6:F9:07:97:FA:CE:B3:16:80:A2
+Google Certificate Hash (SHA-1):    DEC49965F007866B1A79E6F90797FACEB31680A2
+Google Certificate Hash (SHA-256):  62467051C0E300E032C481C62F7426AD81574F41FDF1F6B3FE0D86579292B1C1
+Facebook Key Hash:                  3sSZZfAHhmsaeeb5B5f6zrMWgKI=
+API Key Android:                    AIzaSyAPU01ZMs9V7VaFf3FN5wWbVCgc21nZMlQ
+API Key IOS:                        AIzaSyDsGQtP6L-BWryZC-JsAkXfd5ihVov1ox8
